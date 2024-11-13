@@ -59,4 +59,4 @@ If not, it will keep waiting for a connection
 [!] Couldn't connect, retrying...
 ```
 ## Warning
-I'm not responsbible for what you do with this program
+I'm not responsible for what you do with this program
