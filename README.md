@@ -38,7 +38,7 @@ make
 ## Running the reverse hell
 Remember to have your listener ready
 ```
-nc -lvnp 443
+sudo nc -lvnp 443
 ```
 ## Usage
 ```
